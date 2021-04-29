@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "86016814942",
+    "project_id": "ydr-flutix",
+    "storage_bucket": "ydr-flutix.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86016814942:android:5bdfd0ab2abf5a381d69cf",
+        "android_client_info": {
+          "package_name": "com.example.ydr_flutix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86016814942-0201o3t4cf15a61e90k0osvtlmnkohnl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR6ADExgbX7o5QqTSsp_-9CM4dLNim5mY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86016814942-0201o3t4cf15a61e90k0osvtlmnkohnl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
